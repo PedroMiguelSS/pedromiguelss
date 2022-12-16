@@ -43,7 +43,7 @@ I'm currently a _Minder_, working at [Mindera](https://mindera.com/).
 
 **Note:** "Most Used Languages" chart is only a metric and does not reflect experience or skill level.
 
-[![pedromiguelss's Contribution graph](https://activity-graph.herokuapp.com/graph?username=pedromiguelss&bg_color=FFFFFF&color=000000&line=5694F0&point=023f99&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![pedromiguelss's Contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedromiguelss&bg_color=FFFFFF&color=000000&line=5694F0&point=023f99&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📩 Drop me a line
 
