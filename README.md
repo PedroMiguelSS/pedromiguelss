@@ -13,8 +13,8 @@
 
 ## 🙋🏻‍♂️ About me
 
-I'm a friendly full-stack web developer, living in Porto 🇵🇹, with 4+ years of professional experience building web applications. As an engineer I'm dynamic, passionate and very detail-oriented. I love exploring new technologies and use them to build cool stuff.  
-I'm currently a _Minder_, working at [Mindera](https://mindera.com/).
+I'm a friendly full-stack web developer, living in Porto 🇵🇹, with 6+ years of professional experience building web applications. As an engineer I'm dynamic, passionate and very detail-oriented. I love exploring new technologies and using them to build cool stuff.  
+Currently working at [Motion APP](https://motionapp.com/).
 
 ## 💻 Tech stack
 
